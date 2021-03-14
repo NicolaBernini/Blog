@@ -1,5 +1,5 @@
 
-# Blog
+# Nikola's Blog
 
 Seriously, a blog in 2021, who cares? 
 
