@@ -5,7 +5,7 @@ Seriously, a blog in 2021, who cares?
 
 ![seriously_meme](images/seriously_meme.png)
 
-
+Any math here: $a=b$
 
 # 2021-03-14 
 
